@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//update test
+
 class Seat {
     private String name;
 
